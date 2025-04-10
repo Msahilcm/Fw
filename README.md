@@ -4,9 +4,9 @@ A sophisticated e-commerce platform built with React and Redux, offering a seaml
 
 ## 🌐 Live Demo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-deployment-id/deploy-status)](https://app.netlify.com/sites/your-site-name/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fathimawood/deploy-status)](https://app.netlify.com/sites/fathimawood/deploys)
 
-Visit the live demo: [https://your-site-name.netlify.app](https://your-site-name.netlify.app)
+Visit the live demo: [https://fathimawood.netlify.app](https://fathimawood.netlify.app)
 
 ### Deployment Information
 - **Platform**: Netlify
@@ -14,6 +14,7 @@ Visit the live demo: [https://your-site-name.netlify.app](https://your-site-name
 - **Publish Directory**: `build`
 - **Environment Variables**: Configured in Netlify dashboard
 - **Deployment Status**: Continuous Deployment from main branch
+- **Deployment URL**: [https://fathimawood.netlify.app](https://fathimawood.netlify.app)
 
 ## 🚀 Features
 
@@ -101,7 +102,7 @@ Visit the live demo: [https://your-site-name.netlify.app](https://your-site-name
 ### Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/furniture-ecommerce.git
+   git clone https://github.com/Msahilcm/Fw.git
    ```
 
 2. Install dependencies:
@@ -174,5 +175,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For any questions or suggestions, please contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Msahilcm](https://github.com/Msahilcm)
+- Repository: [https://github.com/Msahilcm/Fw.git](https://github.com/Msahilcm/Fw.git)
